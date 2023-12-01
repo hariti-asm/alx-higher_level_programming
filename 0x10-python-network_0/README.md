@@ -1,1 +1,1 @@
-networking
+NETWORK 0
